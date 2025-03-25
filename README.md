@@ -1,75 +1,95 @@
-<header>
+Journey with Python for Internships
+Hi, I’m Ashanti Cocroft! 
+Welcome to my GitHub repository where I’m documenting my journey with Python as I build projects and sharpen my coding skills. My goal is to gain hands-on experience and showcase my work to secure a software engineering internship.
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+About This Repository
+This repository contains Python projects that demonstrate my growing understanding of programming concepts, problem-solving, and building real-world applications. While I’ve been working extensively with C and C++ in my coursework, I’m expanding my knowledge by exploring Python and applying it to practical and fun projects.
 
-# Introduction to GitHub
+What I’m Learning
+Here’s a breakdown of what I’ve covered so far:
 
-_Get started using GitHub in less than an hour._
+Core Python Concepts – Variables, data types, loops, and conditionals
 
-</header>
+Functions and Modules – Writing reusable code and using libraries
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+Object-Oriented Programming (OOP) – Classes, objects, and inheritance
 
-## Step 1: Create a branch
+Backend Development Basics – Flask and Django (currently learning)
 
-_Welcome to "Introduction to GitHub"! :wave:_
+File Handling and Data Manipulation – Reading, writing, and analyzing data
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+Game Development – Building interactive games using Pygame
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+GUI Development with Tkinter
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+Featured Projects
+Here are some of the projects I’ve worked on to enhance my Python skills:
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+Color Picker App (Tkinter):
+A GUI application that allows users to select colors and displays the corresponding hex code.
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+Dice Roll Simulator:
+Simulates a dice roll and generates random numbers.
 
-![profile-readme-example](/images/profile-readme-example.png)
+Demonstrates understanding of random module and loops.
 
-### :keyboard: Activity: Your first branch
+Password Generator:
+Generates secure and random passwords based on user-defined criteria.
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
+Strengthened my skills in string manipulation and randomization.
 
-   ![code-tab](/images/code-tab.png)
+Simple Login System:
+A basic login and authentication system with error handling.
 
-3. Click on the **main** branch drop-down.
+Practiced working with conditionals and user input validation.
 
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
+Music Player App (Tkinter):
+A simple GUI-based music player that plays audio files.
 
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
+Built using Tkinter and Python’s pygame library for audio playback.
 
-   ![create-branch-button](/images/create-branch-button.png)
+Snake Game (Pygame):
+A classic Snake game developed using Python and Pygame.
 
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
+Demonstrates my understanding of event handling, collision detection, and game loops.
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+Chatbot (Rule-Based):
+Created a simple chatbot capable of responding to basic user queries.
 
-<footer>
+Showcases string manipulation and basic natural language processing fundamentals.
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Tic-Tac-Toe with GUI:
+Built a two-player Tic-Tac-Toe game with a graphical interface.
 
----
+Highlights my proficiency in GUI development and algorithmic logic.
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+ My Goals:
+As I continue learning Python and Django, I’m focusing on:
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Building full-stack web applications using Django
 
-</footer>
+Exploring REST APIs and backend services
+
+Improving my unit testing skills with unittest
+
+Creating more interactive and dynamic applications
+
+Why This Matters?
+I’m passionate about applying my knowledge in a practical setting and contributing to real-world projects. These projects not only strengthen my coding skills but also prepare me for future challenges in the tech industry.
+
+Skills Developed:
+Programming Languages: C, C++, Python
+
+Frameworks & Libraries: Flask, Django, Tkinter, Pygame
+
+Version Control: Git and GitHub
+
+Database Management: MySQL
+
+Cloud Platforms: Azure, Google Cloud
+
+If you’d like to collaborate, discuss projects, or explore internship opportunities, feel free to reach out!
+
+ Email: cocrofta22@gmail.com
+
+LinkedIn: Your LinkedIn Profile
